@@ -1,17 +1,17 @@
 {
-    "version": "0.16.0",
+    "version": "0.17.0",
     "description": "Local reverse proxy that blocks leaked secrets and rate-limits LLM API calls",
     "homepage": "https://github.com/aleksanderbernacki12-byte/aiproxy",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/aleksanderbernacki12-byte/aiproxy/releases/download/v0.16.0/aiproxy-windows-amd64.exe#/aiproxy.exe",
-            "hash": "d316fb7e43b294d6f9582290c2e27c09e60b8c96881b3afe122f75e1b8093eb3",
+            "url": "https://github.com/aleksanderbernacki12-byte/aiproxy/releases/download/v0.17.0/aiproxy-windows-amd64.exe#/aiproxy.exe",
+            "hash": "c832d83dfa529e80779f771ed3640390c3737bfcc378213d6e27c1765117362e",
             "bin": "aiproxy.exe"
         },
         "arm64": {
-            "url": "https://github.com/aleksanderbernacki12-byte/aiproxy/releases/download/v0.16.0/aiproxy-windows-arm64.exe#/aiproxy.exe",
-            "hash": "5be446090c56e2a55b2434e723cbe6d11125bc2984f011b6c794977dc7553aa0",
+            "url": "https://github.com/aleksanderbernacki12-byte/aiproxy/releases/download/v0.17.0/aiproxy-windows-arm64.exe#/aiproxy.exe",
+            "hash": "d4850634d692dffadab31672e23c657daee5943b0b7651d054b6ce1e74514a3e",
             "bin": "aiproxy.exe"
         }
     },
